@@ -4,3 +4,4 @@ This is third line
 this is fourth line
 Add new functionality before staging
 Add new functionality after staging
+addes changes
