@@ -5,3 +5,4 @@ this is fourth line
 Add new functionality before staging
 Add new functionality after staging
 addes changes
+adding some new file
